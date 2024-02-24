@@ -116,4 +116,4 @@ These examples demonstrate various scenarios where LINQ and Lambda expressions a
 
 **Note:** The `Person` class used in these examples is assumed to have properties `Name` and `Age`.
 
-Feel free to ask if you have any questions or need further clarification!
+Feel free to ask if you have any questions or need further clarification! [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawser2133)
