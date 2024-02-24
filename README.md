@@ -1,6 +1,8 @@
 # LINQ and Lambda expressions in C#
 LINQ (Language-Integrated Query) and Lambda expressions are powerful features in C# that allow developers to query and manipulate data concisely and expressively. While both are used for similar purposes, they have distinct syntaxes and use cases. Let's explain with examples and provide multiple scenarios to illustrate the usage of LINQ and Lambda expressions in C#.
 
+You can visit my blog post- [Understanding LINQ and Lambda Expressions in C#](https://binarybytez.com/understanding-linq-and-lambda-expressions/)
+
 ## 1. LINQ (Language-Integrated Query):
 **LINQ** is a set of features in C# that enables developers to query data from different data sources using a SQL-like syntax directly within the C# language.
 
