@@ -7,11 +7,21 @@ You can visit my blog post- [Understanding LINQ and Lambda Expressions in C#](ht
 **LINQ** is a set of features in C# that enables developers to query data from different data sources using a SQL-like syntax directly within the C# language.
 
 **Syntax:** LINQ syntax consists of keywords such as from, where, select, group by, order by, etc., which resemble SQL syntax.
+```csharp
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+var evenNumbers = from num in numbers
+                  where num % 2 == 0
+                  select num;
+```
 
 ## 2. Lambda Expressions:
 **Lambda expressions** are anonymous functions that allow developers to write inline delegate functions without explicitly defining a method.
 
 **Syntax:** Lambda expressions consist of the => (arrow) operator, parameters, and an expression or statement block.
+```csharp
+List<int> numbers = new List<int> { 1, 2, 3, 4, 5 };
+var evenNumbers = numbers.Where(num => num % 2 == 0);
+```
 
 ## Examples with multiple scenarios
 
